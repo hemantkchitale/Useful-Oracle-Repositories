@@ -8,6 +8,8 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/oracle/learning-library" target="_blank">Oracle Learning Library : Learning Material for Oracle Technologies</a></p>
 
+<p class=MsoNormal><a href="https://github.com/oracle-livelabs" target="_blank">Oracle LiveLabs : the place to explore Oracle's products and services using workshops designed to enhance your experience building and deploying applications on the Cloud and On-Premises</a></p>
+
 <p class=MsoNormal><a href="https://github.com/oracle/vagrant-projects" target="_blank">Oracle Vagrant Projects : Vagrant projects for Oracle products and other examples</a></p>
 
 <p class=MsoNormal><a href="https://github.com/CharlieDataMine/Oracle-Machine-Learning" target="_blank">Oracle Machine Learning</a></p>
