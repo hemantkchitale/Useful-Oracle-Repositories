@@ -25,6 +25,6 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/dbarj/orachksum" target="_blank">ORACHKSUM : Oracle Database Integrity Checker</a></p>
 
-<p class=MsoNormal><a href="https://github.com/oracle-developer/mystats" target="_blank">MYSTATS A variation on Jonathan Lewis's SNAP_MY_STATS package by oracle-developer</a></p>
+<p class=MsoNormal><a href="https://github.com/oracle-developer/mystats" target="_blank">MYSTATS : A variation on Jonathan Lewis's SNAP_MY_STATS package by oracle-developer</a></p>
 
 
