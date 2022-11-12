@@ -12,7 +12,6 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/oracle/vagrant-projects" target="_blank">Oracle Vagrant Projects : Vagrant projects for Oracle products and other examples</a></p>
 
-<p class=MsoNormal><a href="https://github.com/CharlieDataMine/Oracle-Machine-Learning" target="_blank">Oracle Machine Learning</a></p>
 
   
 <p class=MsoNormal><b><u>By Third Parties</u></b></p>
