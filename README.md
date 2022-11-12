@@ -2,7 +2,7 @@
 A list of Useful Oracle Repositories
 
 
-<u>By Oracle Corporation</u>
+<p class=MsoNormal><b><u>By Oracle Corporation</u></b></p>
 
 <p class=MsoNormal><a href="https://github.com/oracle-samples/oracle-db-examples">Oracle Database Examples : Examples of applications and tool usage for Oracle Database</a></p>
 
@@ -13,7 +13,7 @@ A list of Useful Oracle Repositories
 <p class=MsoNormal><a href="https://github.com/CharlieDataMine/Oracle-Machine-Learning">Oracle Machine Learning</a></p>
 
   
-<u>By Third Parties</u>
+<p class=MsoNormal><b><u>By Third Parties</u></b></p>
 
 
 <p class=MsoNormal><a href="https://github.com/oraclebase/dba">oracle-base DBA Scripts</a></p>
