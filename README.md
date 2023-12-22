@@ -29,4 +29,5 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/tanelpoder/tpt-oracle" target="_blank">Tanel Poder's Troubleshooting & Performance Tools for Oracle Databases</a></p>
 
+<p class=MsoNormal><a href="https://github.com/oehrlis" target="_blank">Stefan Oerhlis's Tools and Scripts for Oracle Databases</a></p>
 
