@@ -12,6 +12,7 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/oracle/vagrant-projects" target="_blank">Oracle Vagrant Projects : Vagrant projects for Oracle products and other examples</a></p>
 
+<p class=MsoNormal><a href="https://github.com/oracle/adb-free" target="_blank">Oracle Autonomous Database Container Image : Oracle Autonomous Database Free Container image comes with 2 prebuilt Databases - MY_ATP and MY_ADW</a></p>
 
   
 <p class=MsoNormal><b><u>By Third Parties</u></b></p>
