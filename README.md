@@ -32,3 +32,4 @@ A list of Useful Oracle Repositories
 
 <p class=MsoNormal><a href="https://github.com/oehrlis" target="_blank">Stefan Oerhlis's Tools and Scripts for Oracle Databases</a></p>
 
+<p class=MsoNormal><a href="https://github.com/freddenis/oracle-scripts" target="_blank">Fred Deni's Scripts for Oracle Databases</a></p> 
