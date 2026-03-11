@@ -13,6 +13,7 @@ A list of Useful Oracle Repositories
 <p class=MsoNormal><a href="https://github.com/oracle/adb-free" target="_blank">Oracle Autonomous Database Container Image : Oracle Autonomous Database Free Container image comes with 2 prebuilt Databases - MY_ATP and MY_ADW</a></p>
 
 <p class=NsoNormal><a href="https://github.com/oracle/python-oracledb" target="_blank">Python driver for Oracle Database, with sample code</a></p>
+
   
 <p class=MsoNormal><b><u>By Third Parties</u></b></p>
 
@@ -32,3 +33,5 @@ A list of Useful Oracle Repositories
 <p class=MsoNormal><a href="https://github.com/oehrlis" target="_blank">Stefan Oerhlis's Tools and Scripts for Oracle Databases</a></p>
 
 <p class=MsoNormal><a href="https://github.com/freddenis/oracle-scripts" target="_blank">Fred Deni's Scripts for Oracle Databases</a></p> 
+
+<p class=MsoNormal><a href="https://github.com/krisrice/oracle-db-skills" target="_blank">Kris Rice's Oracle DB Skills for AI Tools</a></p> 
